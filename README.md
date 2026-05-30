@@ -1,6 +1,6 @@
 # Nuclear Option Discord Rich Presence
 
-<img width="1080" height="574" alt="Screenshot_20260530_114057_Discord" src="https://github.com/user-attachments/assets/84059dd9-a350-4501-9be5-be965da0017c" />
+<img width="1080" height="517" alt="1000103798" src="https://github.com/user-attachments/assets/0f1b884a-53ae-48e3-af85-1e4709a4e5bf" />
 
 A lightweight, seamless BepInEx plugin that brings **Discord Rich Presence** to [Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/). Let your friends see exactly what you're up to in the skies!
 
