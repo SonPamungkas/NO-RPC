@@ -27,4 +27,4 @@ A lightweight, seamless BepInEx plugin that brings **Discord Rich Presence** to 
 Built using Harmony and the official Discord Game SDK, this mod is highly optimized. It should scans the game state intelligently without dragging down your framerate or constantly polling expensive Unity methods.
 
 ## Credits
-- https://github.com/ZidenttZ1
+- https://github.com/ZidentZ1
